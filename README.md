@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Isabella-L
 - 👀 I’m interested in Chinese Calligraphy
-- 🌱 I’m currently learning C,C++, HTML/CSS and Javascript. 
-- 💞️ I’m looking to collaborate on website building. 
+- 🌱 I’m currently learning HTML/CSS and Javascript. 
+- 💞️ I’m looking to collaborate on robotics project. 
 - 📫 How to reach me spacecraft to Mercury. 
 
 <!---
