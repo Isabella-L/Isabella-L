@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Isabella-L
-- 👀 I’m interested in Chinese Calligraphy
-- 🌱 I’m currently learning HTML/CSS and Javascript. 
+- 👀 I’m interested in Rick & Morty. 
+- 🌱 I’m currently learning ROS and Web Development.
 - 💞️ I’m looking to collaborate on robotics project. 
 - 📫 How to reach me spacecraft to Mercury. 
 
