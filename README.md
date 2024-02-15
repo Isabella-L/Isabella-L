@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Isabella-L
-- 👀 I’m interested in Rick & Morty. 
+- 👀 I’m interested in Robots. 
 - 🌱 I’m currently learning ROS and Web Development.
-- 💞️ I’m looking to collaborate on robotics project. 
+- 💞️ I’m looking to land a job in Tech company. 
 - 📫 How to reach me spacecraft to Mercury. 
 
 <!---
