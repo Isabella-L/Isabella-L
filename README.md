@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Isabella-L
-- 👀 I’m interested in Robots. 
-- 🌱 I’m currently learning ROS and Web Development.
-- 💞️ I’m looking to land a job in Tech company. 
-- 📫 How to reach me spacecraft to Mercury. 
+"I have never listened to anyone who criticized my taste in space travel, sideshows or gorillas. When this occurs, I pack up my dinosaurs and leave the room."
 
 <!---
 Isabella-L/Isabella-L is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
